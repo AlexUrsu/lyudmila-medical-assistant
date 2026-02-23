@@ -34,6 +34,7 @@ The doctor receives structured information and can focus on clinical reasoning a
 - **MedGemma powered**: Uses Google's open medical model
 
 ## 📋 How It Works
+
 ┌─────────────────┐ ┌─────────────────┐ ┌─────────────────┐
 │ Phase 1 │ │ Phase 2 │ │ Phase 3 │
 │ Collection │────▶│ Detailed AI │────▶│ Summary │
@@ -134,6 +135,6 @@ Tracks: Main Competition + Agentic Workflow Prize
 
 📬 Contact
 
-- GitHub: [@AlexUrsu](https://github.com/AlexUrsu)
-- Kaggle: [@alexanderursu](https://www.kaggle.com/alexanderursu)
+- GitHub: [@AlexUrsu] https://github.com/AlexUrsu
+- Kaggle: [@alexanderursu] https://www.kaggle.com/alexanderursu
 
