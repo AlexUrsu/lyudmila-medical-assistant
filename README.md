@@ -36,9 +36,9 @@ The doctor receives structured information and can focus on clinical reasoning a
 ## 📋 How It Works
 
 📋 **Phase 1: Collection (Scripted)**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓  
+          ↓  
 🤖 **Phase 2: Detailed AI Assessment (MedGemma)**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓  
+          ↓  
 📊 **Phase 3: Summary Generation**
 
 
