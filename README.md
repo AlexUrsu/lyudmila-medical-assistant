@@ -123,7 +123,7 @@ Dependencies: Only openai package
 Architecture: Hybrid (scripted + AI-driven)
 
 ## 🎥 Video Demonstration
-[Link to your 3-minute video]
+https://drive.google.com/file/d/1OpF5JbnU2U-_7du-epmfBSiZGczKfnjP/view?usp=sharing
 
 ## 📄 License
 MIT License - feel free to use and adapt
