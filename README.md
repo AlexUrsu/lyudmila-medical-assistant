@@ -41,7 +41,6 @@ The doctor receives structured information and can focus on clinical reasoning a
    ↓  
 📊 **Phase 3: Summary Generation**
 
-text
 
 ### Phase 1: Initial Complaint Collection
 - Simple scripted dialogue to gather main complaints
@@ -73,8 +72,7 @@ cd lyudmila-medical-assistant
 
 # Install dependencies
 pip install openai
-Usage
-bash
+
 # English version
 python lyudmila_en.py
 
@@ -82,7 +80,6 @@ python lyudmila_en.py
 python lyudmila_ru.py
 
 ## 📊 Example Output
-text
 AI-Generated Summary for Doctor
 COMPLAINT 1: Constant Weakness
    • Onset: Gradually over several years
@@ -100,7 +97,6 @@ ADDITIONAL:
    • Special notes: Depression lasting >1 year, impacts daily hygiene
 
 ## Full Transcript
-text
 🤖 Lyudmila: Let's go through your complaints in detail. Tell me about the first one...
 👤 You: I feel constantly weak...
 ...
