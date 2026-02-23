@@ -117,13 +117,13 @@ Dependencies: Only openai package
 
 Architecture: Hybrid (scripted + AI-driven)
 
-##🎥 Video Demonstration
+🎥 Video Demonstration
 [Link to your 3-minute video]
 
-##📄 License
+📄 License
 MIT License - feel free to use and adapt
 
-##👥 Team
+👥 Team
 Alexander Ursu - Project Lead, Developer
 
 AI Assistant - Code optimization, documentation
@@ -133,7 +133,7 @@ This project is submitted to the MedGemma Impact Challenge on Kaggle.
 
 Tracks: Main Competition + Agentic Workflow Prize
 
-##📬 Contact
+📬 Contact
 
 - GitHub: [@AlexUrsu] https://github.com/AlexUrsu
 - Kaggle: [@alexanderursu] https://www.kaggle.com/alexanderursu
