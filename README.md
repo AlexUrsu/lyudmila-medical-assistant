@@ -137,4 +137,5 @@ Tracks: Main Competition + Agentic Workflow Prize
 
 - GitHub: [@AlexUrsu] https://github.com/AlexUrsu
 - Kaggle: [@alexanderursu] https://www.kaggle.com/alexanderursu
+- GMail: ursu.alexer.vas@gmail.com
 
