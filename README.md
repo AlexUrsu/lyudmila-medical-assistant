@@ -35,11 +35,11 @@ The doctor receives structured information and can focus on clinical reasoning a
 
 ## 📋 How It Works
 
-┌─────────────────┐ ┌─────────────────┐ ┌─────────────────┐
-│ Phase 1 │ │ Phase 2 │ │ Phase 3 │
-│ Collection │────▶│ Detailed AI │────▶│ Summary │
-│ (Scripted) │ │ Assessment │ │ Generation │
-└─────────────────┘ └─────────────────┘ └─────────────────┘
+📋 **Phase 1: Collection (Scripted)**  
+   ↓  
+🤖 **Phase 2: Detailed AI Assessment (MedGemma)**  
+   ↓  
+📊 **Phase 3: Summary Generation**
 
 
 ### Phase 1: Initial Complaint Collection
