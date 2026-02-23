@@ -67,7 +67,7 @@ The doctor receives structured information and can focus on clinical reasoning a
 ### Installation
 
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/lyudmila-medical-assistant
+git clone https://github.com/AlexUrsu/lyudmila-medical-assistant
 cd lyudmila-medical-assistant
 
 # Install dependencies
