@@ -74,10 +74,10 @@ cd lyudmila-medical-assistant
 pip install openai
 
 # English version
-python lyudmila_en.py
+python lyudmila_en.ipynb
 
 # Russian version
-python lyudmila_ru.py
+python lyudmila_ru.ipynb
 
 ## 📊 Example Output
 
