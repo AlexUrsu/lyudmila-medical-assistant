@@ -80,26 +80,33 @@ python lyudmila_en.py
 python lyudmila_ru.py
 
 ## 📊 Example Output
-AI-Generated Summary for Doctor
-COMPLAINT 1: Constant Weakness
-   • Onset: Gradually over several years
-   • Characteristics: Persistent throughout the day
-   • Triggers: Bad mood, sadness, emptiness
-   • Relieving factors: None mentioned
-   • Treatment attempts: Seeking medical help
-COMPLAINT 2: Difficulty Starting Things
-   • Onset: Gradual, from laziness to procrastination
-   • Characteristics: Lack of motivation
-   • Triggers: Sadness, emptiness, depression
-   • Relieving factors: Video games provide temporary relief
-ADDITIONAL:
-   • Context: Patient reports grief from loss of loved one
-   • Special notes: Depression lasting >1 year, impacts daily hygiene
+
+### AI-Generated Summary for Doctor
+
+**COMPLAINT 1: Constant Weakness**  
+• Onset: Gradually over several years  
+• Characteristics: Persistent throughout the day  
+• Triggers: Bad mood, sadness, emptiness  
+• Relieving factors: None mentioned  
+• Treatment attempts: Seeking medical help  
+
+**COMPLAINT 2: Difficulty Starting Things**  
+• Onset: Gradual, from laziness to procrastination  
+• Characteristics: Lack of motivation  
+• Triggers: Sadness, emptiness, depression  
+• Relieving factors: Video games provide temporary relief  
+
+**ADDITIONAL:**  
+• Context: Patient reports grief from loss of loved one  
+• Special notes: Depression lasting >1 year, impacts daily hygiene 
 
 ## Full Transcript
+
 🤖 Lyudmila: Let's go through your complaints in detail. Tell me about the first one...
+
 👤 You: I feel constantly weak...
-...
+
+
 ## 🧠 Technical Details
 Model: MedGemma (via LM Studio)
 
