@@ -81,32 +81,7 @@ python lyudmila_en.py
 # Russian version
 python lyudmila_ru.py
 
-📊 Example Output
-AI-Generated Summary for Doctor
-text
-COMPLAINT 1: Constant Weakness
-   • Onset: Gradually over several years
-   • Characteristics: Persistent throughout the day
-   • Triggers: Bad mood, sadness, emptiness
-   • Relieving factors: None mentioned
-   • Treatment attempts: Seeking medical help
-
-COMPLAINT 2: Difficulty Starting Things
-   • Onset: Gradual, from laziness to procrastination
-   • Characteristics: Lack of motivation
-   • Triggers: Sadness, emptiness, depression
-   • Relieving factors: Video games provide temporary relief
-
-ADDITIONAL:
-   • Context: Patient reports grief from loss of loved one
-   • Special notes: Depression lasting >1 year, impacts daily hygiene
-
-Full Transcript
-text
-🤖 Lyudmila: Let's go through your complaints in detail. Tell me about the first one...
-👤 You: I feel constantly weak...
-
-##🧠 Technical Details
+🧠 Technical Details
 Model: MedGemma (via LM Studio)
 
 Framework: OpenAI-compatible API
@@ -138,4 +113,32 @@ Tracks: Main Competition + Agentic Workflow Prize
 - GitHub: [@AlexUrsu] https://github.com/AlexUrsu
 - Kaggle: [@alexanderursu] https://www.kaggle.com/alexanderursu
 - GMail: ursu.alexer.vas@gmail.com
+
+
+📊 Example Output
+AI-Generated Summary for Doctor
+text
+COMPLAINT 1: Constant Weakness
+   • Onset: Gradually over several years
+   • Characteristics: Persistent throughout the day
+   • Triggers: Bad mood, sadness, emptiness
+   • Relieving factors: None mentioned
+   • Treatment attempts: Seeking medical help
+
+COMPLAINT 2: Difficulty Starting Things
+   • Onset: Gradual, from laziness to procrastination
+   • Characteristics: Lack of motivation
+   • Triggers: Sadness, emptiness, depression
+   • Relieving factors: Video games provide temporary relief
+
+ADDITIONAL:
+   • Context: Patient reports grief from loss of loved one
+   • Special notes: Depression lasting >1 year, impacts daily hygiene
+
+Full Transcript
+text
+🤖 Lyudmila: Let's go through your complaints in detail. Tell me about the first one...
+👤 You: I feel constantly weak...
+
+
 
