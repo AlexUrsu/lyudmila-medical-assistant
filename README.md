@@ -66,13 +66,39 @@ The doctor receives structured information and can focus on clinical reasoning a
 
 ### Installation
 
-```bash
 # Clone repository
 git clone https://github.com/YOUR_USERNAME/lyudmila-medical-assistant
 cd lyudmila-medical-assistant
 
 # Install dependencies
 pip install openai
+
+
+
+📊 Example Output
+AI-Generated Summary for Doctor
+text
+COMPLAINT 1: Constant Weakness
+   • Onset: Gradually over several years
+   • Characteristics: Persistent throughout the day
+   • Triggers: Bad mood, sadness, emptiness
+   • Relieving factors: None mentioned
+   • Treatment attempts: Seeking medical help
+
+COMPLAINT 2: Difficulty Starting Things
+   • Onset: Gradual, from laziness to procrastination
+   • Characteristics: Lack of motivation
+   • Triggers: Sadness, emptiness, depression
+   • Relieving factors: Video games provide temporary relief
+
+ADDITIONAL:
+   • Context: Patient reports grief from loss of loved one
+   • Special notes: Depression lasting >1 year, impacts daily hygiene
+
+Full Transcript
+text
+🤖 Lyudmila: Let's go through your complaints in detail. Tell me about the first one...
+👤 You: I feel constantly weak...
 
 Usage
 # English version
@@ -108,37 +134,10 @@ This project is submitted to the MedGemma Impact Challenge on Kaggle.
 
 Tracks: Main Competition + Agentic Workflow Prize
 
-📬 Contact
+## 📬 Contact
 
-- GitHub: [@AlexUrsu] https://github.com/AlexUrsu
-- Kaggle: [@alexanderursu] https://www.kaggle.com/alexanderursu
-- GMail: ursu.alexer.vas@gmail.com
-
-
-📊 Example Output
-AI-Generated Summary for Doctor
-text
-COMPLAINT 1: Constant Weakness
-   • Onset: Gradually over several years
-   • Characteristics: Persistent throughout the day
-   • Triggers: Bad mood, sadness, emptiness
-   • Relieving factors: None mentioned
-   • Treatment attempts: Seeking medical help
-
-COMPLAINT 2: Difficulty Starting Things
-   • Onset: Gradual, from laziness to procrastination
-   • Characteristics: Lack of motivation
-   • Triggers: Sadness, emptiness, depression
-   • Relieving factors: Video games provide temporary relief
-
-ADDITIONAL:
-   • Context: Patient reports grief from loss of loved one
-   • Special notes: Depression lasting >1 year, impacts daily hygiene
-
-Full Transcript
-text
-🤖 Lyudmila: Let's go through your complaints in detail. Tell me about the first one...
-👤 You: I feel constantly weak...
-
+- GitHub: [@AlexUrsu](https://github.com/AlexUrsu)
+- Kaggle: [@alexanderursu](https://www.kaggle.com/alexanderursu)
+- GMail: ursu.alexer.vas@gmail.com 
 
 
