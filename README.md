@@ -106,6 +106,10 @@ python lyudmila_ru.ipynb
 
 👤 You: I feel constantly weak...
 
+See full examples:
+
+- [English report](report_Alexander_20260223_0914.txt)
+- [Russian report](spravka_Иван_20260222_1134.txt)
 
 ## 🧠 Technical Details
 Model: MedGemma (via LM Studio)
